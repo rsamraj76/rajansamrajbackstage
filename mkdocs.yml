@@ -1,0 +1,9 @@
+site_name: 'Help Documentation'
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - FAQ: faq.md
+  - Advanced Topics: advanced.md
+
+plugins:
+  - techdocs-core

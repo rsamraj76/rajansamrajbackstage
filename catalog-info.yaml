@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: help-docs                # Unique name for your documentation component
+  description: Help documentation for Backstage users
+  annotations:
+    backstage.io/techdocs-ref: dir:.   # Points to the current directory for TechDocs
+spec:
+  type: documentation            # Indicates this is documentation
+  owner: your-team-name          # Replace with your team name

@@ -8,5 +8,3 @@ metadata:
 spec:
   type: documentation            # Indicates this is documentation
   owner: your-team-name          # Replace with your team name
-annotations:
-  backstage.io/techdocs-ref: dir:.

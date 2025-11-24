@@ -8,7 +8,7 @@ metadata:
     # It tells Backstage where to find the documentation source files.
     # 'url' for an external, standalone repo (recommended for pure docs repos)
     # 'dir:.' if the docs are in the same repo as the code (and you are using the URL Reader)
-    #backstage.io/techdocs-ref: url:https://github.com/rsamraj76/rajansamrajbackstage/tree/main
+    backstage.io/techdocs-ref: url:https://github.com/rsamraj76/rajansamrajbackstage/tree/main
 spec:
   type: documentation
   lifecycle: production

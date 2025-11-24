@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1beta1
 kind: Component
 metadata:
-  name: HCSM User Manual
+  name: HCSM-User-Manual
   description: Documentation for HCSM application.
   annotations:
     # This is the key annotation for TechDocs!

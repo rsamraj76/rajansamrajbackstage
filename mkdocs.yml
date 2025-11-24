@@ -1,7 +1,7 @@
 site_name: 'HCSM User Manual'
 nav:
   - Home: gettingstartedhtmlversion.md
-  - Overview: gettingstartedhtmlversion1.md
+  - Overview: index.md
   - Purpose: gettingstartedhtmlversion2.md
   - Target audience: gettingstartedhtmlversion3.md
   - Scope of the solution: gettingstartedhtmlversion4.md

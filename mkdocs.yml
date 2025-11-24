@@ -1,9 +1,14 @@
-site_name: 'Help Documentation'
+site_name: 'HCSM User Manual'
 nav:
-  - Home: index.md
-  - Getting Started: getting-started.md
-  - FAQ: faq.md
-  - Advanced Topics: advanced.md
+  - Home: gettingstartedhtmlversion.md
+  - Overview: gettingstartedhtmlversion.md
+  - Purpose: gettingstartedhtmlversion.md
+  - Target audience: gettingstartedhtmlversion.md
+  - Scope of the solution: gettingstartedhtmlversion.md
+  - System requirements: gettingstartedhtmlversion.md
+  - Getting Started: gettingstartedhtmlversion.md
+  - Features Overview: gettingstartedhtmlversion.md
+  - Scope of the solution: gettingstartedhtmlversion.md
 
 plugins:
   - techdocs-core

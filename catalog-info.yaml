@@ -1,8 +1,8 @@
 apiVersion: backstage.io/v1beta1
 kind: Component
 metadata:
-  name: my-help-docs
-  description: Documentation for my internal tools
+  name: HCSM User Manual
+  description: Documentation for HCSM application.
   annotations:
     # This is the key annotation for TechDocs!
     # It tells Backstage where to find the documentation source files.

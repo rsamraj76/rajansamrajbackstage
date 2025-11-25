@@ -97,7 +97,7 @@ JavaScript Enabled: Required for interactive elements Cookies Enabled:
 For session management and preferences Internet Connection: Required to
 access hosted pages and resources
 
-### Getting Started with HCSM
+## Getting Started with HCSM
 
 The below sections will enable the user to get the cloud resources
 ordered and manage them efficiently. The sections will also have

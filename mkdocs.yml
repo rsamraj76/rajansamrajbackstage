@@ -8,6 +8,6 @@ nav:
   - System requirements: gettingstartedhtmlversion.md#system-requirements
   - Getting Started: gettingstartedhtmlversion.md#getting-started
   - Features Overview: gettingstartedhtmlversion.md#features-overview
-    - User Authentication: gettingstartedhtmlversion.md#user-uthentication
+     - User Authentication: gettingstartedhtmlversion.md#user-uthentication
 plugins:
   - techdocs-core

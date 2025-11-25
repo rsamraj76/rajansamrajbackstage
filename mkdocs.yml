@@ -8,8 +8,5 @@ nav:
   - System requirements: gettingstartedhtmlversion.md#system-requirements
   - Getting Started: gettingstartedhtmlversion.md#getting-started
   - Features Overview: gettingstartedhtmlversion.md#features-overview
-   - User Authentication: gettingstartedhtmlversion.md#user-uthentication
-   - Provider Account: gettingstartedhtmlversion.md#provider-account
-   - User Access Management: gettingstartedhtmlversion.md#user-access-management
 plugins:
   - techdocs-core

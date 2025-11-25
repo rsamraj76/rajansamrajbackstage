@@ -123,7 +123,7 @@ in sync with the ongoing changes in the HCSM application.
 
 ------------------------------------------------------------------------
 
-### User Authentication
+## User Authentication
 
 <figure>
 <img src="images/hcsm-help-user-authentication.png"
@@ -139,7 +139,7 @@ The RBAC section explains more on roles and access control.
 
 ------------------------------------------------------------------------
 
-### Provider Account
+## Provider Account
 
 <figure>
 <img src="images/hcsm-help-provider-account.png"
@@ -213,7 +213,9 @@ then click on the “Create Account” button to create this provider in the
 HCSM system. This ensures that the provider can be utilized by the user
 when requesting the resources.</p>
 <hr />
-<h3 id="user-access-management">User Access Management</h3>
+  
+## User Access Management
+
 <p>User Access Management is a critical component of HCSM system,
 ensuring that users can access only the resources and functionalities
 appropriate to their roles. Which mainly enhances security, compliance,

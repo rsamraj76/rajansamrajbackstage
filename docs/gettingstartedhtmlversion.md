@@ -1,4 +1,4 @@
-### Hybrid Cloud Service Marketplace (HCSM) Overview
+## Hybrid Cloud Service Marketplace (HCSM) Overview
 
 Hybrid Cloud Service Marketplace (HCSM) provides a unified platform for
 managing and provisioning cloud services across multiple providers. HCSM
@@ -16,7 +16,7 @@ challenging. Organizations need a way to streamline resource management
 and enforce governance across diverse cloud environments. HCSM solution
 aims to solve these problems for the organizations.
 
-### Target audience
+## Target audience
 
 **Cloud Architect:**  
 • Single platform to handle multiple and hybrid cloud services  

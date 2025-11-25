@@ -1,14 +1,15 @@
 site_name: 'HCSM User Manual'
 nav:
   - Home: gettingstartedhtmlversion.md
-  - Overview: gettingstartedhtmlversion.md#overview
   - Purpose: gettingstartedhtmlversion.md#purpose
-  - Target audience: gettingstartedhtmlversion.md#Target audience
-  - Scope of the solution: gettingstartedhtmlversion4.md
-  - System requirements: gettingstartedhtmlversion5.md
+  - Target audience: gettingstartedhtmlversion.md#target-audience
+  - Scope of the solution: gettingstartedhtmlversion.md#scope-of-the-solution
+  - System requirements: gettingstartedhtmlversion.md#system-requirements
   - Getting Started: gettingstartedhtmlversion6.md
-  - Features Overview: gettingstartedhtmlversion7.md
-  - Scope of the solution: gettingstartedhtmlversion8.md
+  - Features Overview: gettingstartedhtmlversion.md#features-overview
+      - User Authentication: gettingstartedhtmlversion.md#user-uthentication
+      - Provider Account: gettingstartedhtmlversion.md#provider-account
+      - User Access Management: gettingstartedhtmlversion.md#user-access-management
 
 plugins:
   - techdocs-core

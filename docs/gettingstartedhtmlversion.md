@@ -8,7 +8,7 @@ compliance controls. This solution streamlines cloud resource
 management, enhances operational efficiency, and ensures consistent
 governance across hybrid and multi-cloud environments.
 
-### Purpose
+## Purpose
 
 As enterprises expand their cloud usage across multiple hyperscalers,
 maintaining consistent policy and governance becomes increasingly

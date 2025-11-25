@@ -10,6 +10,5 @@ nav:
       - User Authentication: gettingstartedhtmlversion.md#user-uthentication
       - Provider Account: gettingstartedhtmlversion.md#provider-account
       - User Access Management: gettingstartedhtmlversion.md#user-access-management
-
 plugins:
   - techdocs-core

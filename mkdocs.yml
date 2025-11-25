@@ -4,6 +4,6 @@ nav:
   - Purpose: gettingstartedhtmlversion.md#purpose
   - Target audience: gettingstartedhtmlversion.md#target-audience
   - Scope of the solution: gettingstartedhtmlversion.md#scope-of-the-solution
-  
+  - System requirements: gettingstartedhtmlversion.md#system-requirements
 plugins:
   - techdocs-core

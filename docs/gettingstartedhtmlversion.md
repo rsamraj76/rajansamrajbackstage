@@ -1,3 +1,8 @@
+
+Jump to Scope of the solution  
+Jump to System requirements
+
+
 ### Hybrid Cloud Service Marketplace (HCSM) Overview
 
 Hybrid Cloud Service Marketplace (HCSM) provides a unified platform for
@@ -48,7 +53,7 @@ resource requested.
 • Should be able to approve/reject the order based on the estimated cost
 of the resource
 
-### Scope of the solution
+## Scope of the solution
 
 The Hybrid Cloud Service Marketplace provides a unified platform to
 manage all cloud resources. It can be used by the customers to
@@ -69,7 +74,7 @@ layers. Users will be able to access the application over internet, via
 web browser. Solution goes thru standard dev, stage and production
 environment on the same AWS account of client.
 
-### System requirements
+## System requirements
 
 To ensure optimal viewing and functionality of this website's static
 HTML pages, please ensure your system meets the following requirements.

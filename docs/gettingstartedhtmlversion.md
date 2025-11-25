@@ -1,21 +1,3 @@
-
-
-Jump to Overview  
-[Jump toDetails
-
----
-
-## Overview
-This is the **Overview** section.  
-You can add more details here.
-
----
-
-## Details
-This is the **Details** section.  
-Add configuration or usage details here.
-
-
 ### Hybrid Cloud Service Marketplace (HCSM) Overview
 
 Hybrid Cloud Service Marketplace (HCSM) provides a unified platform for

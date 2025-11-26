@@ -2,7 +2,7 @@
 
 User Authentication
 <figure>
-<img src="images/hcsm-help-user-authentication.png"
+<img src="../images/hcsm-help-user-authentication.png"
 alt="User Authentication" />
 </figure>
 

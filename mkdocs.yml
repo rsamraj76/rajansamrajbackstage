@@ -1,12 +1,12 @@
 
 site_name: 'HCSM User Manual'
 nav:
-  - Home: getting-started-with-hcsm.md
+  - Home: gettingstartedhtmlversion.md
   - Purpose: purpose.md
   - Target audience: target-audience.md
   - Scope of the solution: scope-of-the-solution.md
   - System requirements: system-requirements.md
-  - Getting Started: gettingstartedhtmlversion.md#getting-started
+  - Getting Started: getting-started-with-hcsm.md
   - Features Overview: gettingstartedhtmlversion.md#features-overview
   - User Authentication: user-authentication.md
 plugins:

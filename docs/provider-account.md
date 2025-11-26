@@ -3,7 +3,7 @@
 Provider Account
 
 <figure>
-<img src="images/hcsm-help-provider-account.png"
+<img src="../../images/hcsm-help-provider-account.png"
 alt="Provider Account" />
 <p>The above screen is the Provider Account screen which gets loaded
 when the user clicks on the menu “Provider Account” on the left side
@@ -21,7 +21,7 @@ account.</p>
 particular account by starting entering the name of the provider account
 as shown in the screen below:</p>
 <figure>
-<img src="images/hcsm-help-search.png" alt="Search" />
+<img src="../images/hcsm-help-search.png" alt="Search" />
 </figure>
 <h4 id="create-account">Create Account</h4>
 <p>The create account option in the screen enables the user to onboard a
@@ -30,13 +30,13 @@ button “Create Account”. The user will have option to choose from a set
 of available pre-configured Provider(s) as links for the user to choose
 based on the account to be onboarded.</p>
 <figure>
-<img src="images/hcsm-help-create-account.png" alt="Create account" />
+<img src="../images/hcsm-help-create-account.png" alt="Create account" />
 </figure>
 <p>Once the user selects one option from the screen, in our case (AWS)
 from the list of links, the below screen is loaded with the details to
 be entered by the user.</p>
 <figure>
-<img src="images/hcsm-help-new-provider-account.png"
+<img src="../images/hcsm-help-new-provider-account.png"
 alt="New provider account" />
 </figure>
 <p><strong>New Provider Account fields details:</strong></p>
@@ -83,7 +83,7 @@ interactions with the system. The User management is accessible to the
 users with “System Administrator” role. Or if the user belongs to the
 team which has the role “System Administrator” assigned to it.</p>
 <figure>
-<img src="images/hcsm-help-user-access-management.png"
+<img src="../images/hcsm-help-user-access-management.png"
 alt="Access Management" />
 </figure>
 <p>When the user clicks on the “User Access Management” option from the
@@ -98,7 +98,7 @@ a particular user by his/her name. As the user types in the letters, the
 system searches against the name and filters the data to display as
 displayed in the below screen.</p>
 <figure>
-<img src="images/hcsm-help-search-user-option.png" alt="Search user" />
+<img src="../images/hcsm-help-search-user-option.png" alt="Search user" />
 </figure>
 <h5 id="create-user">Create user</h5>
 <p>The user can select “Create User” option by clicking the button on
@@ -108,7 +108,7 @@ consist of fields to be entered by the user like First Name, Last Name,
 Email ID and allow the user to associate role by choosing the options in
 the “Assign Roles” dropdown.</p>
 <figure>
-<img src="images/hcsm-help-user-create.png" alt="Create user" />
+<img src="../images/hcsm-help-user-create.png" alt="Create user" />
 </figure>
 <p>The users can be directly assigned with roles or associate with the
 Teams which are already created and available within the next field
@@ -117,18 +117,18 @@ more teams available under this section as shown in the screenshot
 below.</p>
 <p>Assign roles from drop down Assign Roles:</p>
 <figure>
-<img src="images/hcsm-help-user-add-access.png" alt="Assign roles" />
+<img src="../images/hcsm-help-user-add-access.png" alt="Assign roles" />
 </figure>
 <p>Assign users to Teams from the drop down “Assign Teams”:</p>
 <figure>
-<img src="images/hcsm-help-user-assign-teams.png" alt="Assign teams" />
+<img src="../images/hcsm-help-user-assign-teams.png" alt="Assign teams" />
 </figure>
 <p>Once the user enters the data for the user and associates the user to
 Roles and/or Teams and clicks on Create User button, the screen displays
 a small popup window on the top right corner to confirm that the user is
 created successfully as shown in the below screen.</p>
 <figure>
-<img src="images/hcsm-help-user-created.png" alt="User created" />
+<img src="../images/hcsm-help-user-created.png" alt="User created" />
 </figure>
 <p>The below screen shows how the newly added user looks like with the
 “Active” state as shown below highlighted in blue. The users added newly
@@ -136,7 +136,7 @@ will be active by default when it is saved within the system. If
 required these users can be made inactive which is covered below
 sections.</p>
 <figure>
-<img src="images/hcsm-help-user-activated.png" alt="User activated" />
+<img src="../images/hcsm-help-user-activated.png" alt="User activated" />
 </figure>
 <h5 id="edit-user">Edit User</h5>
 <p>The user has an option to make changes to the currently available
@@ -151,7 +151,7 @@ the user sees the required user, he/she can click on the 3 dotted button
 against the line item. The user can click on the button and choose the
 “Edit User” option as shown in the below screen.</p>
 <figure>
-<img src="images/hcsm-help-user-edit.png" alt="Edit user" />
+<img src="../images/hcsm-help-user-edit.png" alt="Edit user" />
 </figure>
 <p>Once the user clicks on the Edit User option, the user will see the
 below screen with the current values for each previously entered field
@@ -168,7 +168,7 @@ shown below.</p>
 <p>This makes it very flexible for the user to make these changes and
 choose “Update User” button.</p>
 <figure>
-<img src="images/hcsm-help-user-update.png" alt="Update user" />
+<img src="../images/hcsm-help-user-update.png" alt="Update user" />
 </figure>
 <p>After the user makes the changes and clicks on the button “Update
 User”, the system submits the page with the updated values and saves to
@@ -177,7 +177,7 @@ right corner of the screen to confirm that the screen was saved
 successfully, and the user can navigate to other pages to see the
 changes if required.</p>
 <figure>
-<img src="images/hcsm-help-user-updated.png" alt="Updated user" />
+<img src="../images/hcsm-help-user-updated.png" alt="Updated user" />
 </figure>
 <p>This Users tab also has option to modify the number of rows to be
 displayed in a single page by providing the option “Rows per page” drop
@@ -186,7 +186,7 @@ current options provided to the users are 10, 25 and 50. Along with the
 pagination feature to navigate to the next set of rows if the line items
 are more than the selected rows per page option.</p>
 <figure>
-<img src="images/hcsm-help-user-pages.png" alt="User pages" />
+<img src="../images/hcsm-help-user-pages.png" alt="User pages" />
 </figure>
 <p>This page also has option to sort and filter. Each column in this
 page can be sorted based on the needs by the user. You can see an up
@@ -196,7 +196,7 @@ again, the column will be sorted in the descending order. It works like
 a toggle button and makes it very flexible for the user to sort the
 columns.</p>
 <figure>
-<img src="images/hcsm-help-user-sort.png" alt="User sort" />
+<img src="../images/hcsm-help-user-sort.png" alt="User sort" />
 </figure>
 <p>The user can inactivate the user by selecting the below highlighted
 toggle button “Inactivate” or activate the user by clicking on the same
@@ -204,7 +204,7 @@ button for the user who is already inactivated and selecting the “Update
 User” button on the bottom section of this popup window. This will be
 reflected in the main page “User Access” users tab immediately.</p>
 <figure>
-<img src="images/hcsm-help-user-inactive.png" alt="User inactive" />
+<img src="../images/hcsm-help-user-inactive.png" alt="User inactive" />
 </figure>
 <p><em>Please note: Currently there is not option to delete the user
 through UI option for the user. Deleting the users is done through API
@@ -216,7 +216,7 @@ existing teams that are previously configured by the user as shown in
 the below screen. The user also has options to search for a particular
 team, add or modify teams.</p>
 <figure>
-<img src="images/hcsm-help-teams.png" alt="Teams" />
+<img src="../images/hcsm-help-teams.png" alt="Teams" />
 </figure>
 <h4 id="options-in-the-page-1">Options in the page</h4>
 <h5 id="search-teams">Search Teams</h5>
@@ -224,7 +224,7 @@ team, add or modify teams.</p>
 a particular team by the name. As the user types in the letters, the
 system searches against the team’s name and filters the data to display
 as displayed in the below screen.</p>
-<p><img src="images/hcsm-help-teams-search.png"
+<p><img src="../images/hcsm-help-teams-search.png"
 alt="Teams search" /></p>
 <h5 id="create-team">Create Team</h5>
 <p>The user can select “Create Team” option by clicking the button on
@@ -236,14 +236,14 @@ the “Assign Roles” dropdown. The user can select the “Create Team”
 button once all the data entered is validated and sure of creating the
 team.</p>
 <figure>
-<img src="images/hcsm-help-teams-create.png" alt="Teams create" />
+<img src="../images/hcsm-help-teams-create.png" alt="Teams create" />
 </figure>
 <p>Once the user enters the data for the user and associates the user to
 Roles and/or Teams and clicks on “Create Team” button, the screen
 displays a small popup window on the top right corner to confirm that
 the Team is created successfully as shown in the below screen.</p>
 <figure>
-<img src="images/hcsm-help-teams-created.png" alt="Teams created" />
+<img src="../images/hcsm-help-teams-created.png" alt="Teams created" />
 </figure>
 <p>Below screen shows the new team “ISM_Buyer” which got created/added
 successfully within the HCSM system. The team can be now associated with
@@ -251,7 +251,7 @@ the users under the Users page. The status is Active by default. Any
 change required for the Team needs to be done using Edit option covered
 below sections.</p>
 <figure>
-<img src="images/hcsm-help-teams-ism.png" alt="Teams ISM" />
+<img src="../images/hcsm-help-teams-ism.png" alt="Teams ISM" />
 </figure>
 <h5 id="edit-teams">Edit Teams</h5>
 <p>The user has an option to make changes to the currently available
@@ -283,14 +283,14 @@ required.</p>
 <p>This makes it very flexible for the user to make these changes and
 choose “Update Team” button.</p>
 <figure>
-<img src="images/hcsm-help-teams-update.png" alt="Teams update" />
+<img src="../images/hcsm-help-teams-update.png" alt="Teams update" />
 </figure>
 <p>Once the user enters the data for editing the teams and associates
 Roles and/or Users and clicks on “Create Team” button, the screen
 displays a small popup window on the top right corner to confirm that
 the Team is updated successfully as shown in the below screen.</p>
 <figure>
-<img src="images/hcsm-help-teams-updated.png" alt="Teams updated" />
+<img src="../images/hcsm-help-teams-updated.png" alt="Teams updated" />
 </figure>
 <p>The user can inactivate the Team just like the inactivating the Users
 by selecting the below highlighted toggle button “Inactivate” or
@@ -299,19 +299,19 @@ already inactivated and selecting the “Update Team” button on the bottom
 section of this popup window. This will be reflected in the main page
 “User Access” Teams tab immediately.</p>
 <figure>
-<img src="images/hcsm-help-teams-inactive.png" alt="Teams inactive" />
+<img src="../images/hcsm-help-teams-inactive.png" alt="Teams inactive" />
 </figure>
 <p>The below screen shows the inactivated Team highlighted in blue
 colour. The team can be modified to be active as required by the user
 anytime.</p>
 <figure>
-<img src="images/hcsm-help-teams-inactivated.png"
+<img src="../images/hcsm-help-teams-inactivated.png"
 alt="Teams inactivated" />
 </figure>
 <hr />
 <h3 id="service-catalogs">Service Catalogs</h3>
 <figure>
-<img src="images/hcsm-help-service-catalog.png"
+<img src="../images/hcsm-help-service-catalog.png"
 alt="Service Catalogs" />
 </figure>
 <p>The above screen is displayed for the respective user who
@@ -328,7 +328,7 @@ options within the catalogs page</h4>
 <p>Starred option to make it favorite as below. It displays only the
 ones that are marked as star.</p>
 <figure>
-<img src="images/hcsm-help-filter-personall.png"
+<img src="../images/hcsm-help-filter-personall.png"
 alt="Filter personal" />
 </figure>
 <ul>
@@ -337,7 +337,7 @@ alt="Filter personal" />
 <p>This option displays all the catalogs that gets onboarded to the
 application in this page as shown below.</p>
 <figure>
-<img src="images/hcsm-help-filter-all.png" alt="Filter all" />
+<img src="../images/hcsm-help-filter-all.png" alt="Filter all" />
 </figure>
 <ul>
 <li>Categories</li>
@@ -346,7 +346,7 @@ application in this page as shown below.</p>
 provider-based category. In this case only Azure catalogs will be
 displayed on the screen as below.</p>
 <figure>
-<img src="images/hcsm-help-filter-azure.png" alt="Filter categories" />
+<img src="../images/hcsm-help-filter-azure.png" alt="Filter categories" />
 </figure>
 <ul>
 <li>Tags</li>
@@ -355,7 +355,7 @@ displayed on the screen as below.</p>
 tags. The below screen shows all the Terraform templates to be
 displayed.</p>
 <figure>
-<img src="images/hcsm-help-filter-tags.png" alt="Filter tags" />
+<img src="../images/hcsm-help-filter-tags.png" alt="Filter tags" />
 </figure>
 <ul>
 <li>Owner</li>
@@ -365,7 +365,7 @@ catalogs. Say for example, there will be some catalog visibility that
 needs to be displayed only for Kyndryl employees, they can be made
 visible based on the dropdown selection as below.</p>
 <figure>
-<img src="images/hcsm-help-filter-owner.png" alt="Filter owner" />
+<img src="../images/hcsm-help-filter-owner.png" alt="Filter owner" />
 </figure>
 <hr />
 <h3 id="day-one-provisioning">Day one provisioning</h3>
@@ -373,7 +373,7 @@ visible based on the dropdown selection as below.</p>
 to ensure the resource is securely configured and ready to use by the
 buyer using the HCSM system. The below steps will help the user to
 achieve these steps.</p>
-<p><img src="images/hcsm-help-service-catalog-aws.png"
+<p><img src="../images/hcsm-help-service-catalog-aws.png"
 alt="Provisioning" /></p>
 <p>The above Catalogs screen displays the list of catalogs from the
 system where the user can choose from the verities of catalogs based on
@@ -381,34 +381,34 @@ which provider(s) was configured when the system was setup by the
 customer. In the current screen you can see AWS EC2 catalog is picked up
 to show the provisioning flow.</p>
 <figure>
-<img src="images/hcsm-help-day1-name.png" alt="Day1 name" />
+<img src="../images/hcsm-help-day1-name.png" alt="Day1 name" />
 </figure>
 <p>The above screen displays the options for the user to input the
 required parameters as per the respective template selected by the
 user.</p>
 <figure>
-<img src="images/hcsm-help-day1-regions.png" alt="Day1 regions" />
+<img src="../images/hcsm-help-day1-regions.png" alt="Day1 regions" />
 </figure>
 <p>The user gets to choose the regions that are displayed as dropdown.
 In this configuration, the application fetches the available regions for
 the subscription the user is currently using. This is dynamically
 fetched from the APIs.</p>
 <figure>
-<img src="images/hcsm-help-day1-parameters.png" alt="Day1 parameters" />
+<img src="../images/hcsm-help-day1-parameters.png" alt="Day1 parameters" />
 </figure>
 <p>The user can enter rest of the parameters as shown in the screen
 above as an example (Instance Families, Instance Types, AMI Type AMI
 details and choose Review button to see what values were provided by the
 user.</p>
 <figure>
-<img src="images/hcsm-help-day1-create.png" alt="Day1 create" />
+<img src="../images/hcsm-help-day1-create.png" alt="Day1 create" />
 </figure>
 <p>Once the user selects Review option, the above page is displayed
 where the user can verify the selections and entries done in the
 previous tabs. Here the user can choose Create option to place the
 order.</p>
 <figure>
-<img src="images/hcsm-help-day1-order.png" alt="Day1 order" />
+<img src="../images/hcsm-help-day1-order.png" alt="Day1 order" />
 </figure>
 <p>On successful order placement, the above window is displayed. The
 flow for Day One order placement in the application ends with this
@@ -441,15 +441,15 @@ shown below, the user selects the start option, and a confirmation popup
 is displayed for the user.</p>
 <p>User clicks on Start option from the dropdown menu:</p>
 <figure>
-<img src="images/hcsm-help-day2-start.png" alt="Day2 start" />
+<img src="../images/hcsm-help-day2-start.png" alt="Day2 start" />
 </figure>
 <p>User selects confirm from the popup window:</p>
 <figure>
-<img src="images/hcsm-help-day2-start-confirm.png" alt="Day2 confirm" />
+<img src="../images/hcsm-help-day2-start-confirm.png" alt="Day2 confirm" />
 </figure>
 <p>Once the user confirms by clicking on the “Confirm” option, the
 screen shows a process message as displayed in the screen below at the
-top right corner. <img src="images/hcsm-help-day2-order-placed.png"
+top right corner. <img src="../images/hcsm-help-day2-order-placed.png"
 alt="Day2 placed" /></p>
 <p>This action creates a new tracking order with the Order type as
 “Operations” to show that it is a day two operation and keep it
@@ -457,7 +457,7 @@ different from other orders. The order status shows “Provisioning in
 progress” status till the workflow gets completed as shown in the screen
 below.</p>
 <figure>
-<img src="images/hcsm-help-day2-order-inprogress.png"
+<img src="../images/hcsm-help-day2-order-inprogress.png"
 alt="Day2 in progress" />
 </figure>
 <p>Once the order with the type “Operations” gets created an email to
@@ -467,7 +467,7 @@ the user chooses the menu “Order Approval” from the left side menu bar,
 the order to be approved gets displayed with options like “Approve” or
 “Deny” as shown in the screen below.</p>
 <figure>
-<img src="images/hcsm-help-day2-order-approval.png"
+<img src="../images/hcsm-help-day2-order-approval.png"
 alt="Day2 approval" />
 <figcaption aria-hidden="true">Day2 approval</figcaption>
 </figure>
@@ -483,7 +483,7 @@ choose the respective check box and click on the Approve button. The
 Order will still be in pending stage because it will be fully approved
 only after the financial approver completes the approval.</p>
 <figure>
-<img src="images/hcsm-help-day2-order-approval-flow.png"
+<img src="../images/hcsm-help-day2-order-approval-flow.png"
 alt="Day2 approval flow" />
 <figcaption aria-hidden="true">Day2 approval flow</figcaption>
 </figure>
@@ -492,7 +492,7 @@ the resource status changes to the next state based on the type of
 action requested. In this case it shows VM running as shown in the below
 screenshot.</p>
 <figure>
-<img src="images/hcsm-help-day2-order-resources.png"
+<img src="../images/hcsm-help-day2-order-resources.png"
 alt="Day2 resources" />
 <figcaption aria-hidden="true">Day2 resources</figcaption>
 </figure>
@@ -506,14 +506,14 @@ The Stop option can be used by the user to stop the resource (Virtual
 machine) which is currently in the running state.</p>
 <p>User clicks on Stop option from the dropdown menu:</p>
 <figure>
-<img src="images/hcsm-help-day2-stop.png" alt="Day2 stop" />
+<img src="../images/hcsm-help-day2-stop.png" alt="Day2 stop" />
 <figcaption aria-hidden="true">Day2 stop</figcaption>
 </figure>
 <p>As shown below, the user selects the stop option, and a confirmation
 popup is displayed for the user. User selects confirm from the popup
 window:</p>
 <figure>
-<img src="images/hcsm-help-day2-stop-confirm.png"
+<img src="../images/hcsm-help-day2-stop-confirm.png"
 alt="Day2 stop confirm" />
 <figcaption aria-hidden="true">Day2 stop confirm</figcaption>
 </figure>
@@ -524,7 +524,7 @@ mainly for tracking the approval workflow withing HCSM. The order is
 then expected to follow similar workflow as a normal order with
 notifications and approvals.</p>
 <figure>
-<img src="images/hcsm-help-day2-stop-workflow.png"
+<img src="../images/hcsm-help-day2-stop-workflow.png"
 alt="Day2 stop workflow" />
 <figcaption aria-hidden="true">Day2 stop workflow</figcaption>
 </figure>
@@ -534,7 +534,7 @@ clicking on the order details feature available by clicking on the 3
 dots button towards the right side of every line item within the Approve
 Orders page:</p>
 <figure>
-<img src="images/hcsm-help-day2-stop-order-detail.png"
+<img src="../images/hcsm-help-day2-stop-order-detail.png"
 alt="Day2 stop details" />
 <figcaption aria-hidden="true">Day2 stop details</figcaption>
 </figure>
@@ -544,14 +544,14 @@ chooses approve button, the options like Technical and Financial gets
 displayed as below. Based on the type of user, the user can choose the
 approval option and click on the approve button.</p>
 <figure>
-<img src="images/hcsm-help-day2-stop-approval.png"
+<img src="../images/hcsm-help-day2-stop-approval.png"
 alt="Day2 stop approval" />
 <figcaption aria-hidden="true">Day2 stop approval</figcaption>
 </figure>
 <p>The system submits the option chosen by the approver and shows a
 small popup window on top right corner of the screen with successful
 approval message for the order as shown below: <img
-src="images/hcsm-help-day2-stop-approved.png"
+src="../images/hcsm-help-day2-stop-approved.png"
 alt="Day2 stop approved" /></p>
 <p>This action creates a new tracking order with the Order type as
 “Operations” to show that it is a day two operation and keep it
@@ -559,14 +559,14 @@ different from other orders. The user can click on Order History page to
 get more information on the operation. The order status shows
 “Provisioning in progress” status till the workflow gets completed as
 shown in the screen below. <img
-src="images/hcsm-help-day2-stop-inprogress.png"
+src="../images/hcsm-help-day2-stop-inprogress.png"
 alt="Day2 stop approved" /></p>
 <p>Once the resource is stopped(In our case the virtual machine), the
 status of the VM shows stopped as below within the Deployments page.
 This ensures that the user has successfully stopped the VM which was
 running state as shown below.</p>
 <figure>
-<img src="images/hcsm-help-day2-stop-status.png"
+<img src="../images/hcsm-help-day2-stop-status.png"
 alt="Day2 stop status" />
 </figure>
 <h4 id="restart">Restart</h4>
@@ -582,21 +582,21 @@ item for options.</p>
 requirement. The user can choose restart option only for a resource
 which is in running state.</p>
 <figure>
-<img src="images/hcsm-help-day2-restart.png" alt="Day2 restart" />
+<img src="../images/hcsm-help-day2-restart.png" alt="Day2 restart" />
 <figcaption aria-hidden="true">Day2 restart</figcaption>
 </figure>
 <p>After the user selects restart option, a confirmation popup will be
 displayed for the user to confirm the action as shown below in the
 screen.</p>
 <figure>
-<img src="images/hcsm-help-day2-restart-confirm.png"
+<img src="../images/hcsm-help-day2-restart-confirm.png"
 alt="Day2 restart confirm" />
 </figure>
 <p>The system then displays a small progress popup window on the top
 right corner to display the operation just created by the user as shown
 below.</p>
 <figure>
-<img src="images/hcsm-help-day2-restart-confirmed.png"
+<img src="../images/hcsm-help-day2-restart-confirmed.png"
 alt="Day2 restart confirmed" />
 </figure>
 <p>When the user goes to the Order History page, the system displays an
@@ -605,7 +605,7 @@ status will be “pending approval” as shown below. The order is then
 expected to follow similar workflow as a normal order with notifications
 and approvals.</p>
 <figure>
-<img src="images/hcsm-help-day2-restart-workflow.png"
+<img src="../images/hcsm-help-day2-restart-workflow.png"
 alt="Day2 restart workflow" />
 </figure>
 <p>The workflow creates a line item within the approval page with the
@@ -613,7 +613,7 @@ alt="Day2 restart workflow" />
 below. The purpose of order getting created is mainly for tracking the
 approval workflow withing HCSM.</p>
 <figure>
-<img src="images/hcsm-help-day2-restart-approval.png"
+<img src="../images/hcsm-help-day2-restart-approval.png"
 alt="Day2 restart approval" />
 </figure>
 <p>Based on the RBAC, the respective user gets the notification to
@@ -623,7 +623,7 @@ options like Technical and Financial gets displayed as below. Based on
 the type of user, the user can choose the approval option and click on
 the approve button.</p>
 <figure>
-<img src="images/hcsm-help-day2-restart-approval-flow.png"
+<img src="../images/hcsm-help-day2-restart-approval-flow.png"
 alt="Day2 restart approval flow" />
 </figure>
 <p>Once the user clicks the approve button, a small popup progress
@@ -631,14 +631,14 @@ window displays on the top right corner as shown below. This helps the
 user to understand that the process was successfully done, and the user
 can now navigate to other pages.</p>
 <figure>
-<img src="images/hcsm-help-day2-restart-approved.png"
+<img src="../images/hcsm-help-day2-restart-approved.png"
 alt="Day2 restart approved" />
 </figure>
 <p>Once it is successfully restarted, the status shows as VM Running as
 shown below. This helps the user to understand that the vm is
 successfully restarted.</p>
 <figure>
-<img src="images/hcsm-help-day2-restarted.png" alt="Day2 restarted" />
+<img src="../images/hcsm-help-day2-restarted.png" alt="Day2 restarted" />
 </figure>
 <h4 id="delete">Delete</h4>
 <p>When the order gets completed successfully through HCSM, it gets
@@ -653,7 +653,7 @@ order level and not at the underlaying component level as shown in the
 below screen. The user can click on the 3 dots option button and select
 delete from the drop down.</p>
 <figure>
-<img src="images/hcsm-help-day2-delete.png" alt="Day2 delete" />
+<img src="../images/hcsm-help-day2-delete.png" alt="Day2 delete" />
 </figure>
 <p>The user is displayed with a confirmation popup window to make sure
 if it can be deleted or decommissioned with a warning message as
@@ -664,7 +664,7 @@ the user deletes the order. The resources from the provider end gets
 released and terminated, however the delete of order in the HCSM is a
 soft delete and it will be marked as “Deleted”.</p>
 <figure>
-<img src="images/hcsm-help-day2-delete-confirm.png"
+<img src="../images/hcsm-help-day2-delete-confirm.png"
 alt="Day2 delete confirm" />
 </figure>
 <p>Once the user clicks the approve button, a small popup progress
@@ -673,7 +673,7 @@ displays the resource name which is going to get decommissioned or
 deleted for the user to ensure it is the right one after the
 confirmation.</p>
 <figure>
-<img src="images/hcsm-help-day2-delete-order-placed.png"
+<img src="../images/hcsm-help-day2-delete-order-placed.png"
 alt="Day2 delete order" />
 </figure>
 <p>When the user goes to the Order History page, the system displays an
@@ -682,7 +682,7 @@ status will be “pending approval” as shown below. The order is then
 expected to follow similar workflow as a normal order with notifications
 and approvals.</p>
 <figure>
-<img src="images/hcsm-help-day2-delete-workflow.png"
+<img src="../images/hcsm-help-day2-delete-workflow.png"
 alt="Day2 delete workflow" />
 </figure>
 <p>The workflow creates a line item within the approval page with the
@@ -690,14 +690,14 @@ alt="Day2 delete workflow" />
 below. The purpose of order getting created is mainly for tracking the
 approval workflow withing HCSM.</p>
 <figure>
-<img src="images/hcsm-help-day2-delete-approval.png"
+<img src="../images/hcsm-help-day2-delete-approval.png"
 alt="Day2 delete approval" />
 </figure>
 <p>The user has option to see the details on the order that is currently
 getting decommissioned or deleted as shown in the below screen along
 with other details on the resource that is getting deleted.</p>
 <figure>
-<img src="images/hcsm-help-day2-delete-details.png"
+<img src="../images/hcsm-help-day2-delete-details.png"
 alt="Day2 delete details" />
 </figure>
 <p>Based on the RBAC, the respective user gets the notification to
@@ -712,7 +712,7 @@ against the order related to restart option, the options like Technical
 and Financial gets displayed as below. Based on the type of user, the
 user can choose the approval option and click on the approve button.</p>
 <figure>
-<img src="images/hcsm-help-day2-delete-approval-flow.png"
+<img src="../images/hcsm-help-day2-delete-approval-flow.png"
 alt="Day2 delete flow" />
 </figure>
 <p>Once the user clicks the approve button, a small popup progress
@@ -721,20 +721,20 @@ is successfully approved. This help the user to understand that the
 process was successfully completed, and the user can navigate to other
 screens to view.</p>
 <figure>
-<img src="images/hcsm-help-day2-delete-approved.png"
+<img src="../images/hcsm-help-day2-delete-approved.png"
 alt="Day2 delete approved" />
 </figure>
 <p>Once the order is successfully executed and resource is deleted in
 the provider end, the HCSM system now shows the below status when the
 user opens the “Deployments” page.</p>
 <figure>
-<img src="images/hcsm-help-day2-deleted.png" alt="Day2 deleted" />
+<img src="../images/hcsm-help-day2-deleted.png" alt="Day2 deleted" />
 </figure>
 <p>Finally, the user can also view the Order details along with the tags
 and order data as below to understand what order got deleted by clicking
 on the option “View Details” option against the deleted order.</p>
 <figure>
-<img src="images/hcsm-help-day2-deleted-order-details.png"
+<img src="../images/hcsm-help-day2-deleted-order-details.png"
 alt="Day2 deleted details" />
 </figure>
 <hr />
@@ -761,7 +761,7 @@ to approve the order as shown in the screen below.</li>
 the menu shown in the screen below.</li>
 </ul>
 <figure>
-<img src="images/hcsm-help-day2-approve-orders.png"
+<img src="../images/hcsm-help-day2-approve-orders.png"
 alt="Day2 order approve" />
 </figure>
 <p><strong>Types of approvals available:</strong></p>
@@ -774,7 +774,7 @@ the requirement. The approver will validate to see if the request is
 within the approved financial limits.</li>
 </ul>
 <figure>
-<img src="images/hcsm-help-day2-approve-flow.png"
+<img src="../images/hcsm-help-day2-approve-flow.png"
 alt="Day2 approval types" />
 </figure>
 <p><strong>Auto Approval:</strong></p>
@@ -816,7 +816,7 @@ provisioning completes.</li>
 <hr />
 <h3 id="order-history">Order History</h3>
 <figure>
-<img src="images/hcsm-help-order-history.png" alt="Order history" />
+<img src="../images/hcsm-help-order-history.png" alt="Order history" />
 </figure>
 <p>The Order History page displays all the orders placed through the
 HCSM system along with its specific Order Status and other details as
@@ -837,7 +837,7 @@ the orders that belong to that status and which the user will have the
 access to view.</li>
 </ul>
 <figure>
-<img src="images/hcsm-help-order-history-status.png"
+<img src="../images/hcsm-help-order-history-status.png"
 alt="Hisory status" />
 </figure>
 <ul>
@@ -849,7 +849,7 @@ of them and see all the orders that belong to that period of time and
 which the user will have the access to view them based on the RBAC.</li>
 </ul>
 <figure>
-<img src="images/hcsm-help-order-history-placed.png"
+<img src="../images/hcsm-help-order-history-placed.png"
 alt="Hisory placed" />
 </figure>
 <p>Order History provides other options like View Details, View Failure
@@ -862,17 +862,17 @@ failed orders that were placed by the user who is logged in based on the
 RBAC.</li>
 </ul>
 <figure>
-<img src="images/hcsm-help-order-history-retry.png"
+<img src="../images/hcsm-help-order-history-retry.png"
 alt="Hisory failure" />
 </figure>
 <p>The confirmation screen will be displayed to the user as shown
 below:</p>
 <h2 id="hisory-retry"><img
-src="images/hcsm-help-order-history-retry-confirm.png"
+src="../images/hcsm-help-order-history-retry-confirm.png"
 alt="Hisory retry" /></h2>
 <h3 id="deployments">Deployments</h3>
 <figure>
-<img src="images/hcsm-help-deployments.png" alt="Deployments" />
+<img src="../images/hcsm-help-deployments.png" alt="Deployments" />
 </figure>
 <p>The deployments page displays all the resources that are provisioned
 through this system. The list of instances along with the service
@@ -883,7 +883,7 @@ display the line item under it with the related resources under them as
 show in the screen below. The details like Resource Name, Resource Type,
 Status and Tags are displayed with respect to the resources.</p>
 <figure>
-<img src="images/hcsm-help-deployments-details.png"
+<img src="../images/hcsm-help-deployments-details.png"
 alt="Deployments details" />
 </figure>
 <p>View Details and Delete options are available for each resource
@@ -891,14 +891,14 @@ within the Deployments page for the user to see the Order details or to
 delete them if required to delete them from the UI. These are soft
 delete.</p>
 <figure>
-<img src="images/hcsm-help-deployments-delete.png"
+<img src="../images/hcsm-help-deployments-delete.png"
 alt="Deployments delete" />
 </figure>
 <p>When the user clicks on the “View Details” option, the below screen
 is displayed with all the details with respect to that specific Order
 Item.</p>
 <figure>
-<img src="images/hcsm-help-deployment-order-detail.png"
+<img src="../images/hcsm-help-deployment-order-detail.png"
 alt="Deployment order detail" />
 </figure>
 <p>Delete: When the user chooses to delete a line item from the
@@ -907,14 +907,14 @@ confirmation if he/she really wants to delete the Order deployment with
 an understanding that the related resources will be left disconnected
 within the system.</p>
 <figure>
-<img src="images/hcsm-help-deployment-order-delete.png"
+<img src="../images/hcsm-help-deployment-order-delete.png"
 alt="Deployment delete" />
 </figure>
 <p>When the user selects “Confirm”, the below screen is displayed to
 show that the resource is being decommissioned. This might take few mins
 based on the provider end.</p>
 <figure>
-<img src="images/hcsm-help-deployment-order-confirm.png"
+<img src="../images/hcsm-help-deployment-order-confirm.png"
 alt="Deployment confirm" />
 </figure>
 <p>The user can also manage the resources to provide day two operations
@@ -930,7 +930,7 @@ The status of this will be terminated at the provider end.</li>
 <hr />
 <h3 id="log-access">Log Access</h3>
 <figure>
-<img src="images/hcsm-help-log-access.png" alt="Log aceess" />
+<img src="../images/hcsm-help-log-access.png" alt="Log aceess" />
 </figure>
 <p>The deployments logs are displayed in this page. This page is
 accessible to the user based on RBAC. This log is the application log
@@ -944,7 +944,7 @@ along with a specific Order ID and click on the button “Fetch Logs” to
 see the data (Timestamp and the actual message) in the table format to
 get more details.</p>
 <figure>
-<img src="images/hcsm-help-log-access-fetch.png" alt="Logs fetch" />
+<img src="../images/hcsm-help-log-access-fetch.png" alt="Logs fetch" />
 </figure>
 <hr />
 <h3 id="rbac">RBAC</h3>

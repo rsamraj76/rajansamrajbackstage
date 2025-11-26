@@ -1,7 +1,7 @@
 # Scope of the solution
 
 Scope of the solution
-
+<div style="text-align: justify;">
 The Hybrid Cloud Service Marketplace provides a unified platform to
 manage all cloud resources. It can be used by the customers to
 provision, orchestrate and automate infrastructure. It empowers
@@ -20,3 +20,4 @@ the application is exposed to internet via AWS WAF and CloudFront
 layers. Users will be able to access the application over internet, via
 web browser. Solution goes thru standard dev, stage and production
 environment on the same AWS account of client.
+</div>

@@ -126,7 +126,7 @@ in sync with the ongoing changes in the HCSM application.
 ## User Authentication
 
 <figure>
-<img src="images/hcsm-help-user-authentication.png"
+<img src="./images/hcsm-help-user-authentication.png"
 alt="User Authentication" />
 </figure>
 
@@ -142,7 +142,7 @@ The RBAC section explains more on roles and access control.
 ## Provider Account
 
 <figure>
-<img src="images/hcsm-help-provider-account.png"
+<img src="./images/hcsm-help-provider-account.png"
 alt="Provider Account" />
 <p>The above screen is the Provider Account screen which gets loaded
 when the user clicks on the menu “Provider Account” on the left side
@@ -160,7 +160,7 @@ account.</p>
 particular account by starting entering the name of the provider account
 as shown in the screen below:</p>
 <figure>
-<img src="images/hcsm-help-search.png" alt="Search" />
+<img src="./images/hcsm-help-search.png" alt="Search" />
 </figure>
 <h4 id="create-account">Create Account</h4>
 <p>The create account option in the screen enables the user to onboard a

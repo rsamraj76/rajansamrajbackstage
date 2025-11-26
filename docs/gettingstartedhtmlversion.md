@@ -126,7 +126,7 @@ in sync with the ongoing changes in the HCSM application.
 ## User Authentication
 
 <figure>
-<img src="../../images/hcsm-help-user-authentication.png"
+<img src="../images/hcsm-help-user-authentication.png"
 alt="User Authentication" />
 </figure>
 
@@ -142,7 +142,7 @@ The RBAC section explains more on roles and access control.
 ## Provider Account
 
 <figure>
-<img src="../../images/hcsm-help-provider-account.png"
+<img src="../images/hcsm-help-provider-account.png"
 alt="Provider Account" />
 <p>The above screen is the Provider Account screen which gets loaded
 when the user clicks on the menu “Provider Account” on the left side
@@ -160,7 +160,7 @@ account.</p>
 particular account by starting entering the name of the provider account
 as shown in the screen below:</p>
 <figure>
-<img src="../../images/hcsm-help-search.png" alt="Search" />
+<img src="../images/hcsm-help-search.png" alt="Search" />
 </figure>
 <h4 id="create-account">Create Account</h4>
 <p>The create account option in the screen enables the user to onboard a
@@ -169,13 +169,13 @@ button “Create Account”. The user will have option to choose from a set
 of available pre-configured Provider(s) as links for the user to choose
 based on the account to be onboarded.</p>
 <figure>
-<img src="../../images/hcsm-help-create-account.png" alt="Create account" />
+<img src="../images/hcsm-help-create-account.png" alt="Create account" />
 </figure>
 <p>Once the user selects one option from the screen, in our case (AWS)
 from the list of links, the below screen is loaded with the details to
 be entered by the user.</p>
 <figure>
-<img src="../../images/hcsm-help-new-provider-account.png"
+<img src="../images/hcsm-help-new-provider-account.png"
 alt="New provider account" />
 </figure>
 <p><strong>New Provider Account fields details:</strong></p>
@@ -224,7 +224,7 @@ interactions with the system. The User management is accessible to the
 users with “System Administrator” role. Or if the user belongs to the
 team which has the role “System Administrator” assigned to it.</p>
 <figure>
-<img src="../../images/hcsm-help-user-access-management.png"
+<img src="../images/hcsm-help-user-access-management.png"
 alt="Access Management" />
 </figure>
 <p>When the user clicks on the “User Access Management” option from the
@@ -239,7 +239,7 @@ a particular user by his/her name. As the user types in the letters, the
 system searches against the name and filters the data to display as
 displayed in the below screen.</p>
 <figure>
-<img src="../../images/hcsm-help-search-user-option.png" alt="Search user" />
+<img src="../images/hcsm-help-search-user-option.png" alt="Search user" />
 </figure>
 <h5 id="create-user">Create user</h5>
 <p>The user can select “Create User” option by clicking the button on
@@ -249,7 +249,7 @@ consist of fields to be entered by the user like First Name, Last Name,
 Email ID and allow the user to associate role by choosing the options in
 the “Assign Roles” dropdown.</p>
 <figure>
-<img src="../../images/hcsm-help-user-create.png" alt="Create user" />
+<img src="../images/hcsm-help-user-create.png" alt="Create user" />
 </figure>
 <p>The users can be directly assigned with roles or associate with the
 Teams which are already created and available within the next field
@@ -258,18 +258,18 @@ more teams available under this section as shown in the screenshot
 below.</p>
 <p>Assign roles from drop down Assign Roles:</p>
 <figure>
-<img src="../../images/hcsm-help-user-add-access.png" alt="Assign roles" />
+<img src="../images/hcsm-help-user-add-access.png" alt="Assign roles" />
 </figure>
 <p>Assign users to Teams from the drop down “Assign Teams”:</p>
 <figure>
-<img src="../../images/hcsm-help-user-assign-teams.png" alt="Assign teams" />
+<img src="../images/hcsm-help-user-assign-teams.png" alt="Assign teams" />
 </figure>
 <p>Once the user enters the data for the user and associates the user to
 Roles and/or Teams and clicks on Create User button, the screen displays
 a small popup window on the top right corner to confirm that the user is
 created successfully as shown in the below screen.</p>
 <figure>
-<img src="../../images/hcsm-help-user-created.png" alt="User created" />
+<img src="../images/hcsm-help-user-created.png" alt="User created" />
 </figure>
 <p>The below screen shows how the newly added user looks like with the
 “Active” state as shown below highlighted in blue. The users added newly
@@ -277,7 +277,7 @@ will be active by default when it is saved within the system. If
 required these users can be made inactive which is covered below
 sections.</p>
 <figure>
-<img src="../../images/hcsm-help-user-activated.png" alt="User activated" />
+<img src="../images/hcsm-help-user-activated.png" alt="User activated" />
 </figure>
 <h5 id="edit-user">Edit User</h5>
 <p>The user has an option to make changes to the currently available
@@ -292,7 +292,7 @@ the user sees the required user, he/she can click on the 3 dotted button
 against the line item. The user can click on the button and choose the
 “Edit User” option as shown in the below screen.</p>
 <figure>
-<img src="../../images/hcsm-help-user-edit.png" alt="Edit user" />
+<img src="../images/hcsm-help-user-edit.png" alt="Edit user" />
 </figure>
 <p>Once the user clicks on the Edit User option, the user will see the
 below screen with the current values for each previously entered field
@@ -309,7 +309,7 @@ shown below.</p>
 <p>This makes it very flexible for the user to make these changes and
 choose “Update User” button.</p>
 <figure>
-<img src="../../images/hcsm-help-user-update.png" alt="Update user" />
+<img src="../images/hcsm-help-user-update.png" alt="Update user" />
 </figure>
 <p>After the user makes the changes and clicks on the button “Update
 User”, the system submits the page with the updated values and saves to
@@ -318,7 +318,7 @@ right corner of the screen to confirm that the screen was saved
 successfully, and the user can navigate to other pages to see the
 changes if required.</p>
 <figure>
-<img src="../../images/hcsm-help-user-updated.png" alt="Updated user" />
+<img src="../images/hcsm-help-user-updated.png" alt="Updated user" />
 </figure>
 <p>This Users tab also has option to modify the number of rows to be
 displayed in a single page by providing the option “Rows per page” drop
@@ -327,7 +327,7 @@ current options provided to the users are 10, 25 and 50. Along with the
 pagination feature to navigate to the next set of rows if the line items
 are more than the selected rows per page option.</p>
 <figure>
-<img src="../../images/hcsm-help-user-pages.png" alt="User pages" />
+<img src="../images/hcsm-help-user-pages.png" alt="User pages" />
 </figure>
 <p>This page also has option to sort and filter. Each column in this
 page can be sorted based on the needs by the user. You can see an up
@@ -337,7 +337,7 @@ again, the column will be sorted in the descending order. It works like
 a toggle button and makes it very flexible for the user to sort the
 columns.</p>
 <figure>
-<img src="../../images/hcsm-help-user-sort.png" alt="User sort" />
+<img src="../images/hcsm-help-user-sort.png" alt="User sort" />
 </figure>
 <p>The user can inactivate the user by selecting the below highlighted
 toggle button “Inactivate” or activate the user by clicking on the same
@@ -345,7 +345,7 @@ button for the user who is already inactivated and selecting the “Update
 User” button on the bottom section of this popup window. This will be
 reflected in the main page “User Access” users tab immediately.</p>
 <figure>
-<img src="../../images/hcsm-help-user-inactive.png" alt="User inactive" />
+<img src="../images/hcsm-help-user-inactive.png" alt="User inactive" />
 </figure>
 <p><em>Please note: Currently there is not option to delete the user
 through UI option for the user. Deleting the users is done through API
